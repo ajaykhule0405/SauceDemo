@@ -105,6 +105,13 @@ public class SwagLabLoginTest {
 		System.out.println("Git Project");
 	}
 	
+	
+	@Test
+	public void gitNewProject()
+	{
+		System.out.println("Git New Project");
+	}
+	
 	@AfterTest
 	public void publishReport()
 	{
