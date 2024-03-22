@@ -98,6 +98,13 @@ public class SwagLabLoginTest {
 		}
 	}
 	
+	
+	@Test
+	public void gitProject()
+	{
+		System.out.println("Git Project");
+	}
+	
 	@AfterTest
 	public void publishReport()
 	{
